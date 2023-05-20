@@ -38,7 +38,3 @@
 
 - <img align="center" alt="mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> Conhecimento Intermediary.
 
-
-### Próximos passos e interesses:
-
-alt="node" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> <img align="center" alt="mysql" heigth="30" width="40" 
