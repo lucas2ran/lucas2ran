@@ -23,7 +23,8 @@
 
 ### Back-end:
 
-- <img align="center" alt="Java" heigth="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Conhecimento Basic.
+- <img align="center" alt="Java" heigth="28" width="40" src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg"> Conhecimento Basico.
+- <img align="center" alt="C#" heigth="28" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker-600x600.png"> Conhecimento Basico.
 - <img align="center" alt="Spring" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Conhecimento Basic.
 
 ### Front-end:
@@ -31,7 +32,6 @@
 - <img align="center" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Conhecimento intermediario.
 - <img align="center" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Conhecimento Basico.
 - <img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Conhecimento Basico.
-- <img align="center" alt="C#" heigth="28" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker-600x600.png"> Conhecimento Basico.
 - <img align="center" alt="react" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Conhecimento Basico.
 - <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> Desenvolver telas para o front da aplication.
 
