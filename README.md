@@ -7,15 +7,11 @@
 
 ## Contatos
 
-<a href="" target="_blank">
+<a href="www.linkedin.com/in/lucasviniciusxavier" target="_blank">
 <img align="center" alt="" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
-<a href="" target="_blank">
-<img align="center" alt="" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
-</a>
-
-<a href="" target="_blank">
+<a href="https://www.instagram.com/lucasvinis_s?igsh=aDFuMmd6ZW9mcHRm" target="_blank">
 <img align="center" alt="" height="30" width="40" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png">
 </a>
 
