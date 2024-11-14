@@ -23,8 +23,8 @@
 
 ### Back-end:
 
-- <img align="center" alt="Java" heigth="28" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png"> Conhecimento Basico.
-- <img align="center" alt="C#" heigth="28" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker-600x600.png"> Conhecimento Basico.
+- <img align="center" alt="Java" heigth="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png"> Conhecimento Basico.
+- <img align="center" alt="C#" heigth="30" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker-600x600.png"> Conhecimento Basico.
 - <img align="center" alt="Spring" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Conhecimento Basic.
 
 ### Front-end:
